@@ -14,14 +14,24 @@
   "dependencies": {
     "@auth/drizzle-adapter": "^1.4.2",
     "@repo/ui": "*",
+    "@types/minio": "^7.1.1",
+    "@uppy/core": "^4.1.0",
+    "@uppy/dashboard": "^4.0.2",
+    "@uppy/file-input": "^4.0.0",
+    "@uppy/image-editor": "^3.0.0",
+    "@uppy/react": "^4.0.1",
+    "@uppy/xhr-upload": "^4.0.2",
     "bcrypt": "^5.1.1",
     "drizzle-orm": "^0.32.2",
+    "lucide-react": "^0.424.0",
+    "minio": "^8.0.1",
     "next": "^14.2.3",
     "next-auth": "^5.0.0-beta.20",
     "postgres": "^3.4.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "resend": "^3.5.0"
+    "resend": "^3.5.0",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^14.2.3",
